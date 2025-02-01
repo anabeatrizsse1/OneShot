@@ -2,11 +2,11 @@
 #include "hardware/timer.h"
 #include "pico/stdlib.h"
 
-// Definicao dos pinos dos LEDs
-#define LED_B 11  // LED azul
-#define LED_R 12  // LED vermelho
-#define LED_G 13  // LED verde
-#define BUTTON_PIN 5  // Pino do botao
+// Definicao dos pinos dos LEDs Azul, Vermelho e Verde
+#define LED_B 11  
+#define LED_R 12  
+#define LED_G 13  
+#define BUTTON_PIN 5  
 
 // Tempo que cada LED fica aceso (em milissegundos)
 #define INTERVAL_DURATION 3000  
