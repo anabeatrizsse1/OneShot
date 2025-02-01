@@ -17,7 +17,7 @@ Este projeto implementa um sistema de controle sequencial de LEDs utilizando um 
 
 -Cabos de conexão
 
-#Funcionamento
+# Funcionamento
 
 -O sistema aguarda o acionamento do botão.
 
@@ -31,7 +31,7 @@ Este projeto implementa um sistema de controle sequencial de LEDs utilizando um 
 
 -Ao final do ciclo, o sistema aguarda um intervalo e reinicia automaticamente.
 
-#Como Executar o Projeto
+# Como Executar o Projeto
 
 Conecte os componentes conforme o esquema indicado.
 
