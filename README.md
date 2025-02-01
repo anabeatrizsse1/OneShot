@@ -38,3 +38,6 @@ Conecte os componentes conforme o esquema indicado.
 Compile e carregue o código no Raspberry Pi Pico.
 
 Pressione o botão para iniciar o ciclo de iluminação.
+
+# Link do Video
+ https://youtu.be/NiyLuipLJT0
